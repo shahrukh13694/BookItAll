@@ -1,0 +1,20 @@
+{
+	"name": "NodejsStarterApp",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"@cloudant/cloudant": "^4.1.0",
+		"cfenv": "^1.2.2",
+		"express": "^4.17.1",
+		"nodemailer": "^6.2.1",
+		"qr-image": "^3.2.0",
+		"tmdbv3": "^0.1.2"
+	},
+	"repository": {},
+	"engines": {
+		"node": "6.x"
+	}
+}

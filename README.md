@@ -1,6 +1,10 @@
-# Node.js Hello World Sample
+Prototype movie booking application created using NodeJS and Cloudant. 
 
-This application demonstrates a simple, reusable Node.js web application based on the Express framework.
+Learnings:
+1. NodeJS
+2. Connecting backend application to IBM Cloudant
+3. Hosting application on IBM Cloud
+4. Fetching movie details from TMDb
 
 ## Run the app locally
 

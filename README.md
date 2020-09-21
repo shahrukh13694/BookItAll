@@ -5,7 +5,7 @@ Learnings:
 2. Connecting backend application to IBM Cloudant
 3. Hosting application on IBM Cloud
 4. Fetching movie details from TMDb
-5 Generating QR codes and sending email notifications
+5. Generating QR codes and sending email notifications
 
 ## Run the app locally
 
